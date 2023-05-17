@@ -32,7 +32,7 @@ BookDetails.prototype.fillDetailPage = function (book) {
   stars = "";
   for (let i = 0; i < book.rank; i++) {
     stars += `<img
-    src="./src/Assets/Icon/star.png" alt="">`
+    src="../Assets/Icon/star.png" alt="">`
   }
   breadCrumbName.innerHTML = book.name;
   detailsTitle.innerHTML = book.name;
