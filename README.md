@@ -2,7 +2,7 @@
 
 ![Geleceği Yazanlar Logo](https://gelecegiyazanlar.turkcell.com.tr/themes/custom/gyz/logo.svg)
 
-## <img  style="margin-top:3px;" src="./BookVerse-Prototype/src/Assets/Logo/bookverseWhite.png">
+## <img  style="margin-top:3px;" src="./src/Assets/Logo/bookverseWhite.png">
 
 
   
